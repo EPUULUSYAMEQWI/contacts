@@ -27,7 +27,7 @@ class ViewContactActivity : AppCompatActivity() {
 
 
 
-        Toast.makeText(this,name,Toast.LENGTH_LONG)
+        Toast.makeText(this,name,Toast.LENGTH_LONG).show()
     }
 
 }
